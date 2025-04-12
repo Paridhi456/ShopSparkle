@@ -15,6 +15,17 @@ export const products: Product[] = [
     featured: true
   },
   {
+    id:'e5',
+    title:'laptop',
+    description:'black laptop',
+    image: 'https://images.unsplash.com/photo-1496181133206-80ce9b88a853?q=80&w=2942&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+    category: 'electronics',
+  rating: 4.0,
+    inStock: true,
+    featured: true
+
+  }
+  {
     id: 'c2',
     title: 'Slim Fit Jeans',
     description: 'Stylish slim fit jeans with a modern cut. Made from high-quality denim with slight stretch for comfort.',
