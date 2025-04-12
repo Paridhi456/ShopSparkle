@@ -35,7 +35,7 @@ const Contact = () => {
             <div>
               <h2 className="text-2xl font-bold mb-6">Get In Touch</h2>
               
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-12">
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
                 <div className="flex items-start">
                   <div className="bg-primary/10 p-3 rounded-full mr-4">
                     <MapPin className="h-6 w-6 text-primary" />
