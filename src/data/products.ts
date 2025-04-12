@@ -66,15 +66,6 @@ export const products: Product[] = [
     category: 'clothing',
     rating: 4.6,
     inStock: true
-  },{
-  id: 'c7',
-    title: 'White Hoodie',
-    description: 'Turn heads with this graceful white dress, crafted for both elegance and comfort. Whether youre attending a brunch, a summer party, or a casual day out, this dress is your perfect go-to',
-    price: 234.99,
-    image: 'https://images.unsplash.com/photo-1615397587950-3cbb55f95b77?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-    category: 'clothing',
-    rating: 4.7,
-    inStock: true
   },
   // Electronics Category
   {
@@ -98,6 +89,7 @@ export const products: Product[] = [
     rating: 4.6,
     inStock: true
   },
+  
   {
     id: 'e3',
     title: 'Bluetooth Speaker',
